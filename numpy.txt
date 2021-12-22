@@ -1,0 +1,58 @@
+&&&&&   NumPy &&&&
+
+
+what are numpy array?
+
+Numpy is a python pakage that stands for NUmerical pythn it is cor libry for scintfic cmputing cntins powerful - n demensional arrray object
+
+where we used numpy
+ 
+python numpy array provied tools for intergeting
+this is used for intergrting  c,c++
+numpy array can also used as an multi-dimensional container for genric data 
+
+python numpy array:
+  numpy is powrful N- dminsional arrat object which is in the form of rows and columns we can intialize Numpy operation 
+
+
+import numpy as np
+a = np.array([2,4,67,89,7])
+print(a)
+
+
+numpy vs list
+
+less memory
+fast
+coonvevient 
+
+
+numpy operation :
+find the diminsion of the array
+
+
+how to diminsion $$$$
+a.ndim12:53 PM 12/17/202112:53 PM 12/17/202112:53 PM 12/17/202112:53 PM 12/17/202112:53 PM 12/17/2021
+
+
+a.shape()
+
+
+@@reshpe()
+
+
+reshape the array 4&2 to 2*4 by using reshape
+
+## line space ###
+a = np.linespace(1,3,10)
+
+## ravel
+ a = np.array([(1,2,3),(3,4,5)])
+print(a.ravel())
+1,2,3,4,5
+
+import matplotib as plt
+x = np.arange
+
+
+
